@@ -2,9 +2,9 @@
 Un script de warnuri facut acum ceva timp pe care am decis sa il fac public.
 
 Scritpul contine:
-⬩ _Admin Warn_ din K>Admin__
-⬩ _Admin UnWarn_ din K>Admin__
-⬩ _Comanda de /warns_ din chat pentru a vedea cate warnuri are o persoana__
+⬩ _Admin Warn_ din K>Admin<br />
+⬩ _Admin UnWarn_ din K>Admin<br />
+⬩ _Comanda de /warns_ din chat pentru a vedea cate warnuri are o persoana<br />
 
 Setati discord webhook-ul la linia 32 si 33
 --------------------
