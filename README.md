@@ -1,6 +1,11 @@
 # vrp_warnsAX
 Un script de warnuri facut acum ceva timp pe care am decis sa il fac public.
 
+Scritpul contine:
+⬩ _Admin Warn_ din K>Admin
+⬩ _Admin UnWarn_ din K>Admin
+⬩ _Comanda de /warns_ din chat pentru a vedea cate warnuri are o persoana
+
 Setati discord webhook-ul la linia 32 si 33
 --------------------
 
