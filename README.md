@@ -4,7 +4,7 @@ Un script de warnuri facut acum ceva timp pe care am decis sa il fac public.
 Scritpul contine:<br />
 ⬩ _Admin Warn_ din K>Admin<br />
 ⬩ _Admin UnWarn_ din K>Admin<br />
-⬩ _Comanda de /warns_ din chat pentru a vedea cate warnuri are o persoana<br />
+⬩ _Comanda de /warns_ din chat pentru a vedea cate warnuri ai<br />
 
 Setati discord webhook-ul la linia 32 si 33
 --------------------
